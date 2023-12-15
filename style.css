@@ -16,7 +16,19 @@ header {
 .licorneimg {
     height: 240px;
     width: 240px;
-    padding:30px 16px;
+    padding: 30px 16px;
+}
+
+.licornetxt {
+    float: left;
+    position: absolute;
+    z-index: 2;
+    top: 1085px;
+    left: 485px;
+    color: white;
+    background-color: black;
+    height: 54px;
+    
 }
 
 .lien {
